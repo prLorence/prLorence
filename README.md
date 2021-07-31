@@ -8,9 +8,9 @@
 
 <br/>
 
- 🌱 I’m currently learning React.js.
- ⚡ Fun fact: I play guitar and have a dimple near my right eye.
- 🔭 I’m currently working on a simple sign up form with API integration.
+ 🌱 I’m currently learning React.js. <br/>
+ ⚡ Fun fact: I play guitar and have a dimple near my right eye. <br/>
+ 🔭 I’m currently working on a simple sign up form with API integration. <br/>
 
 ### Connect with me:
 
