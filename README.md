@@ -8,9 +8,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning React.js.
-- ⚡ Fun fact: I play guitar and have a dimple near my right eye.
-- 🔭 I’m currently working on a simple sign up form with API integration.
+ 🌱 I’m currently learning React.js.
+ ⚡ Fun fact: I play guitar and have a dimple near my right eye.
+ 🔭 I’m currently working on a simple sign up form with API integration.
 
 ### Connect with me:
 
@@ -36,7 +36,6 @@
 <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;
 <img alt="GitHub" width="60px" padding="16px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> &nbsp;
 
-<br/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prLorence&&theme=react&&hide_border=true"/>
