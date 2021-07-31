@@ -21,8 +21,6 @@
 
 </div>
 
-<br/>
-
 ### Language and Tools:
 
 <br/>
