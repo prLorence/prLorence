@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Paul. Nice to meet you! 👋
 
-<br/>
-
 ### I'm a student, brother, and aspiring front-end developer!
 
 <br/>
