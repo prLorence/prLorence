@@ -16,8 +16,8 @@
 
 <div align="center">
 
-[<img align="left" alt="codeSTACKr | Twitter" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;
-[<img align="left" alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img alt="prLorence | Twitter" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] &nbsp;&nbsp;
+[<img alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
 </div>
 
@@ -28,13 +28,13 @@
 
 <br/>
 
-<img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> nbsp;
-<img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> nbsp;
-<img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> nbsp;
-<img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> nbsp;
-<img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> nbsp;
-<img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> nbsp;
-<img alt="GitHub" width="60px" padding="16px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> nbsp;
+<img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp;
+<img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp;
+<img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp;
+<img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;
+<img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp;
+<img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;
+<img alt="GitHub" width="60px" padding="16px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> &nbsp;
 
 <br/>
 <br/>
