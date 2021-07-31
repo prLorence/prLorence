@@ -41,6 +41,7 @@
 
 <img alt="GitHub" width="60px" padding="16px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prLorence&&theme=react&&hide_border=true"/>
 
