@@ -1,13 +1,12 @@
 <div align="center">
 ### Hi there, I'm Paul. Nice to meet you! 👋
 <br/>
-
 ### I'm a student, brother, and aspiring front-end developer!
 <br/>
 
-- 🔭 I’m currently working on a simple sign up form with API integration.
 - 🌱 I’m currently learning React.js.
 - ⚡ Fun fact: I play guitar and have a dimple near my right eye.
+- 🔭 I’m currently working on a simple sign up form with API integration.
 
 ### Connect with me:
 
@@ -15,9 +14,10 @@
 [<img align="left" alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
 <br/>
-
+<br/>
 ### Language and Tools:
 
+<br/>
 
 <img alt="HTML5" width="84px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
