@@ -1,19 +1,14 @@
 <div align="center">
 
-### Hi there, I'm Paul. Nice to meet you! 👋
+### Hi there, I'm prLorence. Nice to meet you! 👋
 
-### I'm a student, brother, and aspiring front-end developer!
-
- 🌱 I’m currently learning React.js. <br/>
- ⚡ Fun fact: I play guitar and have a dimple near my right eye. <br/>
- 🔭 I’m currently working on a simple sign up form with API integration. <br/>
+### I'm a junior full-stack developer!
 
 ### Connect with me:
 
 <div align="center">
 
-[<img alt="prLorence | Twitter" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
-[<img alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
 
 </div>
 
@@ -35,4 +30,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=prLorence&show_icons=true&theme=react&&hide_border=true"/>
 
 [linkedin]: https://linkedin.com/in/prLorence
-[twitter]: https://twitter.com/paulorencereyes
