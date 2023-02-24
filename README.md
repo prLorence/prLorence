@@ -2,7 +2,7 @@
 
 ### Hi there, I'm prLorence. Nice to meet you! 👋
 
-### I'm a junior full-stack developer!
+### I'm a full-stack developer!
 
 ### Connect with me:
 
