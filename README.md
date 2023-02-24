@@ -35,7 +35,7 @@
 
 <img alt="firebase" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/firebase.png" />
 
-<img alt="Git" width="120px" src="https://github.com/prLorence/prLorence/blob/main/images/git.png" />
+<img alt="Git" width="100px" src="https://github.com/prLorence/prLorence/blob/main/images/git.png" />
 
 <br/>
 
