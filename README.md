@@ -33,7 +33,7 @@
 
 &nbsp;
 
-<img alt="firebase" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/firebase.png" />
+<img alt="firebase" width="100px" src="https://github.com/prLorence/prLorence/blob/main/images/firebase.png" />
 
 <img alt="Git" width="100px" src="https://github.com/prLorence/prLorence/blob/main/images/git.png" />
 
