@@ -22,7 +22,7 @@
 <img alt="ASP.NET Core" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
 
 
-<img alt="C#" width="60px" src="./images/c#.png"/> &nbsp; &nbsp; &nbsp;
+<img alt="C#" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/c%23.png"/> &nbsp; &nbsp; &nbsp;
 
 
 
