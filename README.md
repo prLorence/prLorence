@@ -17,14 +17,12 @@
 
 <br/>
 
-<img alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
+<img alt="Typescript" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/ts.jpeg" />
 
-<img alt="ASP.NET Core" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
-
-
-<img alt="C#" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/c%23.png"/> &nbsp; &nbsp; &nbsp;
+<img alt="ASP.NET Core" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/asp.net.png" /> 
 
 
+<img alt="C#" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/c%23.png"/> 
 
 <img alt="Javascript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
 <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp; &nbsp; &nbsp;
