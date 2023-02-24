@@ -14,12 +14,12 @@
 
 ### Language and Tools:
 
-
 <br/>
+
+<img alt="C#" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/c%23.png"/>  
 
 <img alt="Typescript" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/ts.jpeg" /> 
 
-<img alt="C#" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/c%23.png"/>  
 
 <img alt="Javascript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 
@@ -31,9 +31,11 @@
 
 <img alt="node" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/node.png" /> 
 
-<img alt="firebase" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/firebase.png" /> &nbsp;&nbsp;&nbsp;
+&nbsp;
 
-<img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; &nbsp; &nbsp;
+<img alt="firebase" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/firebase.png" />
+
+<img alt="Git" width="60px" src="https://github.com/prLorence/prLorence/blob/main/images/git.png" />
 
 <br/>
 
