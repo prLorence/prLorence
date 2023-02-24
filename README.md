@@ -14,9 +14,19 @@
 
 ### Language and Tools:
 
+
 <br/>
 
-<img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
+<img alt="Typescript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
+
+<img alt="ASP.NET Core" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
+
+
+<img alt="C#" width="60px" src="../../../Pictures/Tools/c#.png"/> &nbsp; &nbsp; &nbsp;
+
+
+
+<img alt="Javascript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; &nbsp; &nbsp;
 <img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp; &nbsp; &nbsp;
  <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp; &nbsp; &nbsp;
 <img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp; &nbsp; &nbsp;
