@@ -1,16 +1,16 @@
 <div align="center">
 
-### Hi there, I'm prLorence. Nice to meet you! 👋
+### Nice to meet you! 👋
 
 ### I'm a full-stack developer with a strong preference in Back-end.
 
-### Connect with me:
+<!-- ### Connect with me:
 
 <div align="center">
 
 [<img alt="prLorence | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin] &nbsp; &nbsp;
 
-</div>
+</div> -->
 
 ### Language and Tools:
 
